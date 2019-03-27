@@ -4,5 +4,6 @@ public class test_class {
 		System.out.println("hello world~! hoftix~!");
 		System.out.println("I'm the master");
 		System.out.println("I'm the hotfix~!");
+		System.out.println("I'm the master~!");
 	}
 }
